@@ -1,5 +1,6 @@
-# Educational Conntents For Numerical MEthod Students
-A few examples of numerical methods:
+# Numerical Methods
+## Education contents for my numerical methods class.
+Here I have implemented some well known numerical methods in python. 
 * Newton Divided Differences
 * Richardson Extrapolation
 * Romberg Method for inteheration
